@@ -4,6 +4,8 @@
     "email": "mubashirmuchi75@gmail.com"
   },
   "records": {
-    "TXT": "vc-domain-verify=mubashirm.is-a.dev,fd808840c93eaf428afe"
+    "TXT": "vc-domain-verify=mubashirm.is-a.dev,fd808840c93eaf428afe",
+    "CNAME": "cname.vercel-dns.com"
+   
   }
 }
